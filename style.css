@@ -3350,13 +3350,16 @@ select.mobile-device {
 
 
 .pd-add{
-	padding: 70px 0px;
+	padding-top: 50px ;
+    
 }
 .address-item{
-	float: left;
-	margin: 0 11px;
+/*	float: left;*/
+/*	margin: 0 11px;*/
+/*
 	padding: 0px 15px;
 	width: 31%;
+*/
 	box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
 }
 
